@@ -11,7 +11,7 @@ You can compile the project with Maven:
 ```bash
 mvn clean compile
 ````
-
+Run with:
 
 ```bash
 java -cp "target/classes:/home/madhusaketh/.m2/repository/org/processing/core/3.3.7/core-3.3.7.jar" com.madhu.Main
