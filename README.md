@@ -14,16 +14,29 @@ mvn compile
 
 If Maven is not installed on Ubuntu/Linux, install it with:
 
+```
+sudo apt update
+```
+
 ```bash
 sudo apt install maven
 ```
+Inspiration
 
-## Inspiration
+This project is inspired by Daniel Shiffman, author of The Nature of Code and creator of The Coding Train.
 
-The core idea behind this repository was inspired by [Daniel Shiffman](https://shiffman.net/), author of *The Nature of Code*. I greatly enjoyed his book and have learned a lot from his YouTube channel, [The Coding Train](https://thecodingtrain.com/).
+The implementation is based on his Maze Generation Algorithm video and follows the ideas demonstrated there, adapted into my own Java implementation.
 
-This project was inspired by his video on the Maze Generation Algorithm, and represents my own implementation of the concepts presented there.
+Special thanks to Daniel Shiffman for making creative coding and algorithms easy to understand and fun to learn.
 
-Special thanks to Daniel Shiffman for his outstanding educational content and for making creative coding accessible to everyone.
+Reference Video
+
+https://www.youtube.com/watch?v=nF7DVmovWr0&t=9792s
+
+Notes
+Built using Java + Processing Core
+Uses Maven for dependency management
+Implements maze generation logic inspired by recursive backtracking
+
 
 
