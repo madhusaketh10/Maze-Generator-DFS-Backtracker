@@ -18,4 +18,12 @@ If Maven is not installed on Ubuntu/Linux, install it with:
 sudo apt install maven
 ```
 
+## Inspiration
+
+The core idea behind this repository was inspired by [Daniel Shiffman](https://shiffman.net/), author of *The Nature of Code*. I greatly enjoyed his book and have learned a lot from his YouTube channel, [The Coding Train](https://thecodingtrain.com/).
+
+This project was inspired by his video on the Maze Generation Algorithm, and represents my own implementation of the concepts presented there.
+
+Special thanks to Daniel Shiffman for his outstanding educational content and for making creative coding accessible to everyone.
+
 
