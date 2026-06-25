@@ -18,5 +18,4 @@ If Maven is not installed on Ubuntu/Linux, install it with:
 sudo apt install maven
 ```
 
-```
-```
+
